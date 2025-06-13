@@ -11,5 +11,5 @@ body{
     align-items: center;
     height: 100vh;
     background: #141313;
-    
+    overflow-x: hidden;
 }
